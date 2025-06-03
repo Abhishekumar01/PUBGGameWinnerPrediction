@@ -1,5 +1,15 @@
+# Python
 __pycache__/
-.ipynb_checkpoints/
-.env
 *.pyc
-.DS_Store
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.ipynb_checkpoints/
+
+# Datasets (if too large for GitHub, though pubg.csv might be okay)
+# pubg.csv
+
+# Saved models (if you want to regenerate them rather than commit)
+# pubg_win_predictor.pkl
